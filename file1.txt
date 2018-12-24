@@ -8,6 +8,8 @@ This is my git file......
 </head>
 <body>
         <p> Login Successful!!!!!!</p>
+	loginid:
+	name:
 	
 
 </body>
