@@ -2,9 +2,13 @@ This is my git file......
 
 <!DOCTYPE html>
 <html lang="en">
-<head> Hello to git demo </head>
+<head> Hello to git demo 
+
+<h1>    This is a demo page     </h1>
+</head>
 <body>
-        <p>This is a demo page</p>
+        
+	
 
 </body>
 </html>
