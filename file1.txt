@@ -8,8 +8,10 @@ This is my git file......
 </head>
 <body>
         <p> Login Successful!!!!!!</p>
-	loginid:
-	name:
+	loginid: <input type="text">
+	name:<input type="text">
+	submit:<input type="text">
+
 	
 
 </body>
